@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BlueFind</string>
+    <string name="select_device">Select a Paired Phone</string>
+    <string name="btn_make_findable">Make This Phone Findable</string>
+    <string name="btn_find_other">Find My Other Phone</string>
+    <string name="status_listening">Listening for find requests…</string>
+    <string name="status_idle">Not listening</string>
+    <string name="stop_listening">Stop Listening</string>
+    <string name="found_title">Here I am!</string>
+    <string name="btn_stop_ringing">Stop Ringing</string>
+    <string name="no_paired_devices">No paired Bluetooth devices found. Pair with the other phone in Android Bluetooth settings first.</string>
+    <string name="connecting">Connecting…</string>
+    <string name="ring_sent">Find request sent</string>
+    <string name="ring_failed">Could not reach that phone. Make sure it\'s nearby, paired, and has BlueFind listening.</string>
+</resources>
